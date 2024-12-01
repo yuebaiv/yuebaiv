@@ -1,11 +1,26 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuebaiv&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>Author is yuebaiv 👋</h2>
+    <ul>
+      <li>🎓 CUMT (Bachelor's degree)</li>
+      <li>📖 <a href="https://blog.csdn.net/LEILEI18A"><strong>yuebaiv's blog</strong></a></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuebaiv&show_icons=true" alt="GitHub Stats" height="150">
+  </div>
+</div>
 
-## Author is yuebaiv 👋
-- 🎓 CUMT (Bachelor's degree)
-- 📖 [**yuebaiv's blog**](yuebai.blog)
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=yuebaiv&theme=flat" alt="logo" height="120" align="center" style="margin: auto; margin-bottom: 20px;" />
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuebaiv&theme=flat&margin-w=15&margin-h=15" alt="Trophy Showcase" height="150">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaiv&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+---
+
+<div style="text-align: center;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaiv&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+</div>
