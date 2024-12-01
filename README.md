@@ -22,5 +22,5 @@
 ---
 
 <div style="text-align: center;">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaiv&layout=compact)](https://github.com/gengyanlei/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaiv&layout=compact" alt="Top Langs" />
 </div>
